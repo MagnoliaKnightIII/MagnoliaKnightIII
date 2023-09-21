@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MagnoliaKnightIII
+<b>- 👋 Hi, I’m @MagnoliaKnightIII
 - 👀 I’m interested in video games, creative writing, and horror.
 - 🌱 I’m currently learning new writing skills primarily, but am equally interested in programming
 - 📫 How to reach me: my Canvas profile
